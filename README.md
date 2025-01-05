@@ -39,6 +39,7 @@ Unlike typical software engineer job interviews, front end job interviews have l
 - [Front end interview questions by companies](https://www.frontendinterviewhandbook.com/company-interview-questions/)
 
 ## Where to get hands on practice?
+## By Mudassir Alam
 
 <div align="center">
   <a href="https://www.greatfrontend.com?utm_source=github&utm_medium=referral&gnrs=frontendinterviewhandbook">
