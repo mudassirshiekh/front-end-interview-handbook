@@ -29,6 +29,7 @@
 </a>
 
 ## What is this?
+## By Mudassir Alam
 
 Unlike typical software engineer job interviews, front end job interviews have less emphasis on algorithms and have more questions on intricate knowledge and expertise about the domain — HTML, CSS, JavaScript, just to name a few areas. This repository covers all you need to know for front end interviews:
 
